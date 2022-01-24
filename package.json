@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio04-calculadora",
+  "version": "1.0.0",
+  "description": "Crear una aplicación web en NodeJS que se comporte como una calculadora. La aplicación recibe num1, num2 y op por parámetros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Carballo",
+  "license": "ISC"
+}
